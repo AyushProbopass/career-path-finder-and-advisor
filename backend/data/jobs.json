@@ -78,5 +78,1975 @@
 "required_skills": ["design", "figma", "user-research", "prototyping", "html", "css"],
 "experience_level": "mid",
 "growth_score": 8
+},
+{
+"id": "j9",
+"title": "Full Stack Developer",
+"industry": "Tech",
+"description": "Works on both frontend and backend development",
+"salary_range": [75000, 95000],
+"required_skills": ["javascript", "react", "node.js", "sql", "git", "api"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j10",
+"title": "Mobile Developer",
+"industry": "Tech",
+"description": "Develops native and cross-platform mobile applications",
+"salary_range": [70000, 90000],
+"required_skills": ["react-native", "javascript", "mobile-development", "git", "api"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j11",
+"title": "QA Engineer",
+"industry": "Tech",
+"description": "Tests software and ensures quality standards",
+"salary_range": [60000, 80000],
+"required_skills": ["testing", "selenium", "javascript", "api", "git"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j12",
+"title": "UI Designer",
+"industry": "Design",
+"description": "Creates visual designs for digital products",
+"salary_range": [65000, 85000],
+"required_skills": ["design", "figma", "adobe-xd", "prototyping", "css"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j13",
+"title": "Digital Marketing Specialist",
+"industry": "Marketing",
+"description": "Plans and executes digital marketing campaigns",
+"salary_range": [50000, 70000],
+"required_skills": ["seo", "google-analytics", "social-media", "content-marketing", "communication"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j14",
+"title": "Content Writer",
+"industry": "Marketing",
+"description": "Creates engaging content for various platforms",
+"salary_range": [45000, 65000],
+"required_skills": ["writing", "seo", "content-marketing", "research", "communication"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j15",
+"title": "Social Media Manager",
+"industry": "Marketing",
+"description": "Manages social media presence and engagement",
+"salary_range": [50000, 70000],
+"required_skills": ["social-media", "content-creation", "analytics", "communication", "creativity"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j16",
+"title": "Business Analyst",
+"industry": "Business",
+"description": "Analyzes business processes and recommends improvements",
+"salary_range": [65000, 85000],
+"required_skills": ["analytics", "sql", "excel", "communication", "problem-solving"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j17",
+"title": "HR Coordinator",
+"industry": "Business",
+"description": "Supports recruitment and employee relations",
+"salary_range": [45000, 60000],
+"required_skills": ["communication", "organization", "hr-software", "recruiting", "empathy"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j18",
+"title": "Financial Analyst",
+"industry": "Finance",
+"description": "Analyzes financial data and creates reports",
+"salary_range": [60000, 80000],
+"required_skills": ["excel", "financial-modeling", "analytics", "sql", "accounting"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j19",
+"title": "Customer Success Manager",
+"industry": "Business",
+"description": "Ensures customer satisfaction and retention",
+"salary_range": [55000, 75000],
+"required_skills": ["communication", "problem-solving", "crm", "empathy", "analytics"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j20",
+"title": "Graphic Designer",
+"industry": "Design",
+"description": "Creates visual content for print and digital media",
+"salary_range": [48000, 68000],
+"required_skills": ["design", "photoshop", "illustrator", "creativity", "typography"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j21",
+"title": "Senior Backend Developer",
+"industry": "Tech",
+"description": "Architects backend systems and leads development teams",
+"salary_range": [110000, 150000],
+"required_skills": ["python", "sql", "architecture", "leadership", "microservices", "aws"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j22",
+"title": "Senior Full Stack Developer",
+"industry": "Tech",
+"description": "Leads full stack projects and mentors developers",
+"salary_range": [115000, 155000],
+"required_skills": ["javascript", "react", "node.js", "sql", "architecture", "leadership"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j23",
+"title": "Machine Learning Engineer",
+"industry": "Tech",
+"description": "Develops and deploys machine learning models",
+"salary_range": [100000, 160000],
+"required_skills": ["python", "machine-learning", "tensorflow", "deep-learning", "aws", "sql"],
+"experience_level": "mid",
+"growth_score": 10
+},
+{
+"id": "j24",
+"title": "Cloud Architect",
+"industry": "Tech",
+"description": "Designs cloud infrastructure and migration strategies",
+"salary_range": [120000, 170000],
+"required_skills": ["aws", "azure", "architecture", "kubernetes", "security", "leadership"],
+"experience_level": "senior",
+"growth_score": 9
+},
+{
+"id": "j25",
+"title": "Security Engineer",
+"industry": "Tech",
+"description": "Protects systems and data from security threats",
+"salary_range": [95000, 135000],
+"required_skills": ["security", "linux", "networking", "python", "penetration-testing", "compliance"],
+"experience_level": "mid",
+"growth_score": 10
+},
+{
+"id": "j26",
+"title": "iOS Developer",
+"industry": "Tech",
+"description": "Develops native iOS applications",
+"salary_range": [80000, 110000],
+"required_skills": ["swift", "ios", "mobile-development", "git", "api"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j27",
+"title": "Android Developer",
+"industry": "Tech",
+"description": "Develops native Android applications",
+"salary_range": [80000, 110000],
+"required_skills": ["kotlin", "android", "mobile-development", "git", "api"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j28",
+"title": "Senior Mobile Developer",
+"industry": "Tech",
+"description": "Leads mobile development projects",
+"salary_range": [105000, 145000],
+"required_skills": ["react-native", "ios", "android", "architecture", "leadership", "testing"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j29",
+"title": "QA Automation Engineer",
+"industry": "Tech",
+"description": "Develops automated testing frameworks",
+"salary_range": [80000, 110000],
+"required_skills": ["testing", "selenium", "python", "ci-cd", "api", "javascript"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j30",
+"title": "Senior QA Engineer",
+"industry": "Tech",
+"description": "Leads quality assurance strategy and team",
+"salary_range": [95000, 125000],
+"required_skills": ["testing", "automation", "leadership", "strategy", "ci-cd", "agile"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j31",
+"title": "Product Designer",
+"industry": "Design",
+"description": "Designs end-to-end product experiences",
+"salary_range": [85000, 120000],
+"required_skills": ["design", "figma", "user-research", "prototyping", "strategy", "communication"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j32",
+"title": "Senior UX Designer",
+"industry": "Design",
+"description": "Leads UX strategy and design teams",
+"salary_range": [100000, 140000],
+"required_skills": ["design", "user-research", "leadership", "strategy", "prototyping", "communication"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j33",
+"title": "Senior Product Designer",
+"industry": "Design",
+"description": "Leads product design and mentors designers",
+"salary_range": [110000, 150000],
+"required_skills": ["design", "figma", "user-research", "leadership", "strategy", "systems-thinking"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j34",
+"title": "Marketing Manager",
+"industry": "Marketing",
+"description": "Leads marketing strategy and campaigns",
+"salary_range": [80000, 110000],
+"required_skills": ["marketing", "strategy", "analytics", "leadership", "communication", "budget-management"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j35",
+"title": "Senior Marketing Manager",
+"industry": "Marketing",
+"description": "Oversees marketing department and strategy",
+"salary_range": [100000, 140000],
+"required_skills": ["marketing", "strategy", "leadership", "analytics", "budget-management", "team-management"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j36",
+"title": "SEO Specialist",
+"industry": "Marketing",
+"description": "Optimizes websites for search engines",
+"salary_range": [55000, 75000],
+"required_skills": ["seo", "google-analytics", "html", "content-marketing", "analytics"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j37",
+"title": "Senior SEO Manager",
+"industry": "Marketing",
+"description": "Leads SEO strategy and team",
+"salary_range": [85000, 115000],
+"required_skills": ["seo", "analytics", "leadership", "strategy", "content-marketing", "technical-seo"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j38",
+"title": "Content Marketing Manager",
+"industry": "Marketing",
+"description": "Develops content strategy and manages content team",
+"salary_range": [75000, 100000],
+"required_skills": ["content-marketing", "writing", "strategy", "seo", "analytics", "leadership"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j39",
+"title": "Email Marketing Specialist",
+"industry": "Marketing",
+"description": "Creates and manages email marketing campaigns",
+"salary_range": [52000, 72000],
+"required_skills": ["email-marketing", "copywriting", "analytics", "html", "marketing-automation"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j40",
+"title": "PPC Specialist",
+"industry": "Marketing",
+"description": "Manages pay-per-click advertising campaigns",
+"salary_range": [55000, 75000],
+"required_skills": ["google-ads", "analytics", "marketing", "excel", "optimization"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j41",
+"title": "Brand Manager",
+"industry": "Marketing",
+"description": "Develops and maintains brand strategy",
+"salary_range": [80000, 110000],
+"required_skills": ["branding", "marketing", "strategy", "communication", "creativity", "analytics"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j42",
+"title": "Sales Development Representative",
+"industry": "Sales",
+"description": "Generates and qualifies sales leads",
+"salary_range": [45000, 65000],
+"required_skills": ["communication", "sales", "crm", "prospecting", "persistence"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j43",
+"title": "Account Executive",
+"industry": "Sales",
+"description": "Closes deals and manages client relationships",
+"salary_range": [60000, 90000],
+"required_skills": ["sales", "communication", "crm", "negotiation", "relationship-building"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j44",
+"title": "Sales Manager",
+"industry": "Sales",
+"description": "Leads sales team and develops sales strategy",
+"salary_range": [85000, 120000],
+"required_skills": ["sales", "leadership", "strategy", "crm", "coaching", "analytics"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j45",
+"title": "Senior Sales Manager",
+"industry": "Sales",
+"description": "Oversees sales operations and strategy",
+"salary_range": [110000, 150000],
+"required_skills": ["sales", "leadership", "strategy", "team-management", "forecasting", "negotiation"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j46",
+"title": "Business Development Manager",
+"industry": "Business",
+"description": "Identifies and pursues new business opportunities",
+"salary_range": [80000, 115000],
+"required_skills": ["sales", "strategy", "communication", "networking", "negotiation", "analytics"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j47",
+"title": "Senior Business Analyst",
+"industry": "Business",
+"description": "Leads business analysis and strategy projects",
+"salary_range": [90000, 120000],
+"required_skills": ["analytics", "sql", "strategy", "communication", "problem-solving", "leadership"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j48",
+"title": "Project Manager",
+"industry": "Business",
+"description": "Plans and executes projects across teams",
+"salary_range": [75000, 105000],
+"required_skills": ["project-management", "agile", "communication", "leadership", "organization", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j49",
+"title": "Senior Project Manager",
+"industry": "Business",
+"description": "Manages complex projects and programs",
+"salary_range": [100000, 135000],
+"required_skills": ["project-management", "leadership", "strategy", "agile", "stakeholder-management", "budget-management"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j50",
+"title": "Scrum Master",
+"industry": "Tech",
+"description": "Facilitates agile development processes",
+"salary_range": [80000, 110000],
+"required_skills": ["agile", "scrum", "facilitation", "communication", "coaching", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j51",
+"title": "Senior Product Manager",
+"industry": "Business",
+"description": "Leads product strategy and roadmap",
+"salary_range": [120000, 165000],
+"required_skills": ["product-management", "strategy", "leadership", "analytics", "communication", "agile"],
+"experience_level": "senior",
+"growth_score": 9
+},
+{
+"id": "j52",
+"title": "Technical Product Manager",
+"industry": "Tech",
+"description": "Manages technical products and works with engineering",
+"salary_range": [100000, 140000],
+"required_skills": ["product-management", "technical-skills", "api", "sql", "agile", "communication"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j53",
+"title": "HR Manager",
+"industry": "Business",
+"description": "Manages HR operations and employee relations",
+"salary_range": [75000, 100000],
+"required_skills": ["hr-management", "leadership", "recruiting", "employee-relations", "compliance", "communication"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j54",
+"title": "Recruiter",
+"industry": "Business",
+"description": "Sources and recruits top talent",
+"salary_range": [55000, 75000],
+"required_skills": ["recruiting", "communication", "interviewing", "ats", "networking"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j55",
+"title": "Senior Recruiter",
+"industry": "Business",
+"description": "Leads recruitment efforts for key positions",
+"salary_range": [75000, 100000],
+"required_skills": ["recruiting", "interviewing", "strategy", "ats", "negotiation", "leadership"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j56",
+"title": "Talent Acquisition Manager",
+"industry": "Business",
+"description": "Develops and executes talent acquisition strategy",
+"salary_range": [90000, 120000],
+"required_skills": ["recruiting", "leadership", "strategy", "ats", "employer-branding", "analytics"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j57",
+"title": "Accountant",
+"industry": "Finance",
+"description": "Manages financial records and reporting",
+"salary_range": [55000, 75000],
+"required_skills": ["accounting", "excel", "quickbooks", "gaap", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j58",
+"title": "Senior Accountant",
+"industry": "Finance",
+"description": "Oversees accounting operations and reporting",
+"salary_range": [75000, 100000],
+"required_skills": ["accounting", "gaap", "financial-reporting", "excel", "leadership", "analysis"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j59",
+"title": "Senior Financial Analyst",
+"industry": "Finance",
+"description": "Leads financial analysis and forecasting",
+"salary_range": [85000, 115000],
+"required_skills": ["financial-modeling", "excel", "analytics", "forecasting", "communication", "sql"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j60",
+"title": "Finance Manager",
+"industry": "Finance",
+"description": "Manages financial planning and analysis",
+"salary_range": [95000, 130000],
+"required_skills": ["finance", "leadership", "financial-modeling", "strategy", "analytics", "communication"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j61",
+"title": "Controller",
+"industry": "Finance",
+"description": "Oversees all accounting operations",
+"salary_range": [110000, 150000],
+"required_skills": ["accounting", "gaap", "leadership", "financial-reporting", "compliance", "strategy"],
+"experience_level": "senior",
+"growth_score": 6
+},
+{
+"id": "j62",
+"title": "Investment Analyst",
+"industry": "Finance",
+"description": "Analyzes investment opportunities",
+"salary_range": [70000, 95000],
+"required_skills": ["financial-modeling", "excel", "analytics", "research", "valuation"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j63",
+"title": "Data Engineer",
+"industry": "Tech",
+"description": "Builds and maintains data pipelines",
+"salary_range": [85000, 120000],
+"required_skills": ["python", "sql", "spark", "etl", "aws", "data-modeling"],
+"experience_level": "mid",
+"growth_score": 10
+},
+{
+"id": "j64",
+"title": "Senior Data Engineer",
+"industry": "Tech",
+"description": "Architects data infrastructure and leads data team",
+"salary_range": [115000, 155000],
+"required_skills": ["python", "sql", "spark", "architecture", "aws", "leadership"],
+"experience_level": "senior",
+"growth_score": 10
+},
+{
+"id": "j65",
+"title": "Senior Data Scientist",
+"industry": "Tech",
+"description": "Leads data science projects and initiatives",
+"salary_range": [120000, 170000],
+"required_skills": ["python", "machine-learning", "statistics", "deep-learning", "leadership", "communication"],
+"experience_level": "senior",
+"growth_score": 10
+},
+{
+"id": "j66",
+"title": "BI Analyst",
+"industry": "Business",
+"description": "Creates dashboards and business intelligence reports",
+"salary_range": [65000, 85000],
+"required_skills": ["sql", "tableau", "excel", "analytics", "communication"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j67",
+"title": "Senior BI Analyst",
+"industry": "Business",
+"description": "Leads BI strategy and advanced analytics",
+"salary_range": [90000, 120000],
+"required_skills": ["sql", "tableau", "analytics", "strategy", "communication", "leadership"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j68",
+"title": "Systems Administrator",
+"industry": "Tech",
+"description": "Maintains and manages IT systems",
+"salary_range": [65000, 85000],
+"required_skills": ["linux", "windows-server", "networking", "scripting", "troubleshooting"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j69",
+"title": "Senior Systems Administrator",
+"industry": "Tech",
+"description": "Leads IT infrastructure and systems management",
+"salary_range": [90000, 120000],
+"required_skills": ["linux", "windows-server", "networking", "automation", "security", "leadership"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j70",
+"title": "Network Engineer",
+"industry": "Tech",
+"description": "Designs and maintains network infrastructure",
+"salary_range": [75000, 100000],
+"required_skills": ["networking", "cisco", "routing", "switching", "troubleshooting", "security"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j71",
+"title": "Senior Network Engineer",
+"industry": "Tech",
+"description": "Architects network solutions and leads network team",
+"salary_range": [100000, 135000],
+"required_skills": ["networking", "cisco", "architecture", "security", "leadership", "automation"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j72",
+"title": "IT Support Specialist",
+"industry": "Tech",
+"description": "Provides technical support to end users",
+"salary_range": [45000, 60000],
+"required_skills": ["troubleshooting", "customer-service", "windows", "networking", "communication"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j73",
+"title": "Technical Support Engineer",
+"industry": "Tech",
+"description": "Provides advanced technical support",
+"salary_range": [60000, 80000],
+"required_skills": ["troubleshooting", "customer-service", "networking", "sql", "scripting"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j74",
+"title": "Solutions Architect",
+"industry": "Tech",
+"description": "Designs technical solutions for clients",
+"salary_range": [110000, 150000],
+"required_skills": ["architecture", "aws", "communication", "problem-solving", "leadership", "technical-design"],
+"experience_level": "senior",
+"growth_score": 9
+},
+{
+"id": "j75",
+"title": "Database Administrator",
+"industry": "Tech",
+"description": "Manages and optimizes databases",
+"salary_range": [80000, 110000],
+"required_skills": ["sql", "database-administration", "performance-tuning", "backup-recovery", "troubleshooting"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j76",
+"title": "Senior Database Administrator",
+"industry": "Tech",
+"description": "Leads database strategy and architecture",
+"salary_range": [105000, 140000],
+"required_skills": ["sql", "database-administration", "architecture", "performance-tuning", "leadership", "automation"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j77",
+"title": "Site Reliability Engineer",
+"industry": "Tech",
+"description": "Ensures system reliability and performance",
+"salary_range": [95000, 135000],
+"required_skills": ["linux", "python", "kubernetes", "monitoring", "ci-cd", "troubleshooting"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j78",
+"title": "Senior DevOps Engineer",
+"industry": "Tech",
+"description": "Leads DevOps strategy and infrastructure",
+"salary_range": [115000, 155000],
+"required_skills": ["docker", "kubernetes", "aws", "leadership", "ci-cd", "automation"],
+"experience_level": "senior",
+"growth_score": 9
+},
+{
+"id": "j79",
+"title": "Blockchain Developer",
+"industry": "Tech",
+"description": "Develops blockchain and smart contract solutions",
+"salary_range": [90000, 130000],
+"required_skills": ["blockchain", "solidity", "ethereum", "javascript", "cryptography"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j80",
+"title": "Game Developer",
+"industry": "Gaming",
+"description": "Develops video games and gaming experiences",
+"salary_range": [70000, 95000],
+"required_skills": ["unity", "c#", "game-development", "3d-modeling", "physics"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j81",
+"title": "Senior Game Developer",
+"industry": "Gaming",
+"description": "Leads game development projects",
+"salary_range": [100000, 140000],
+"required_skills": ["unity", "unreal-engine", "c++", "leadership", "game-design", "optimization"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j82",
+"title": "AR/VR Developer",
+"industry": "Tech",
+"description": "Develops augmented and virtual reality experiences",
+"salary_range": [85000, 120000],
+"required_skills": ["unity", "ar", "vr", "c#", "3d-modeling"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j83",
+"title": "Embedded Systems Engineer",
+"industry": "Engineering",
+"description": "Develops software for embedded systems",
+"salary_range": [80000, 110000],
+"required_skills": ["c", "c++", "embedded-systems", "electronics", "debugging"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j84",
+"title": "Firmware Engineer",
+"industry": "Engineering",
+"description": "Develops firmware for hardware devices",
+"salary_range": [85000, 115000],
+"required_skills": ["c", "embedded-systems", "firmware", "electronics", "debugging"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j85",
+"title": "Robotics Engineer",
+"industry": "Engineering",
+"description": "Designs and programs robotic systems",
+"salary_range": [90000, 125000],
+"required_skills": ["robotics", "python", "c++", "machine-learning", "computer-vision"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j86",
+"title": "Computer Vision Engineer",
+"industry": "Tech",
+"description": "Develops computer vision and image processing systems",
+"salary_range": [95000, 135000],
+"required_skills": ["computer-vision", "python", "opencv", "deep-learning", "machine-learning"],
+"experience_level": "mid",
+"growth_score": 10
+},
+{
+"id": "j87",
+"title": "NLP Engineer",
+"industry": "Tech",
+"description": "Develops natural language processing solutions",
+"salary_range": [95000, 140000],
+"required_skills": ["nlp", "python", "machine-learning", "deep-learning", "linguistics"],
+"experience_level": "mid",
+"growth_score": 10
+},
+{
+"id": "j88",
+"title": "Research Scientist",
+"industry": "Research",
+"description": "Conducts research in AI and machine learning",
+"salary_range": [110000, 160000],
+"required_skills": ["research", "machine-learning", "python", "statistics", "deep-learning", "publishing"],
+"experience_level": "senior",
+"growth_score": 10
+},
+{
+"id": "j89",
+"title": "Technical Writer",
+"industry": "Tech",
+"description": "Creates technical documentation and guides",
+"salary_range": [60000, 85000],
+"required_skills": ["writing", "technical-writing", "documentation", "communication", "api"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j90",
+"title": "Senior Technical Writer",
+"industry": "Tech",
+"description": "Leads documentation strategy and team",
+"salary_range": [85000, 115000],
+"required_skills": ["technical-writing", "documentation", "leadership", "api", "communication", "strategy"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j91",
+"title": "Video Editor",
+"industry": "Media",
+"description": "Edits and produces video content",
+"salary_range": [50000, 70000],
+"required_skills": ["video-editing", "premiere-pro", "after-effects", "creativity", "storytelling"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j92",
+"title": "Motion Graphics Designer",
+"industry": "Design",
+"description": "Creates animated graphics and visual effects",
+"salary_range": [60000, 85000],
+"required_skills": ["after-effects", "motion-graphics", "design", "animation", "creativity"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j93",
+"title": "Senior Motion Graphics Designer",
+"industry": "Design",
+"description": "Leads motion graphics projects",
+"salary_range": [85000, 120000],
+"required_skills": ["after-effects", "motion-graphics", "design", "leadership", "creativity", "3d"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j94",
+"title": "3D Artist",
+"industry": "Design",
+"description": "Creates 3D models and renders",
+"salary_range": [60000, 85000],
+"required_skills": ["3d-modeling", "blender", "maya", "texturing", "rendering"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j95",
+"title": "Senior 3D Artist",
+"industry": "Design",
+"description": "Leads 3D art and modeling projects",
+"salary_range": [85000, 120000],
+"required_skills": ["3d-modeling", "maya", "zbrush", "leadership", "texturing", "animation"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j96",
+"title": "Illustrator",
+"industry": "Design",
+"description": "Creates illustrations for various media",
+"salary_range": [50000, 70000],
+"required_skills": ["illustration", "drawing", "adobe-illustrator", "photoshop", "creativity"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j97",
+"title": "Art Director",
+"industry": "Design",
+"description": "Leads creative vision and art teams",
+"salary_range": [90000, 130000],
+"required_skills": ["art-direction", "design", "leadership", "creativity", "communication", "strategy"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j98",
+"title": "Creative Director",
+"industry": "Design",
+"description": "Oversees creative strategy and execution",
+"salary_range": [110000, 160000],
+"required_skills": ["creative-direction", "leadership", "strategy", "design", "communication", "branding"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j99",
+"title": "Copywriter",
+"industry": "Marketing",
+"description": "Writes compelling copy for marketing materials",
+"salary_range": [50000, 70000],
+"required_skills": ["copywriting", "writing", "creativity", "marketing", "communication"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j100",
+"title": "Senior Copywriter",
+"industry": "Marketing",
+"description": "Leads copywriting projects and strategy",
+"salary_range": [75000, 105000],
+"required_skills": ["copywriting", "writing", "strategy", "creativity", "leadership", "branding"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j101",
+"title": "UX Researcher",
+"industry": "Design",
+"description": "Conducts user research to inform design decisions",
+"salary_range": [75000, 100000],
+"required_skills": ["user-research", "research-methods", "analytics", "communication", "empathy"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j102",
+"title": "Senior UX Researcher",
+"industry": "Design",
+"description": "Leads user research strategy and initiatives",
+"salary_range": [100000, 135000],
+"required_skills": ["user-research", "research-methods", "leadership", "strategy", "analytics", "communication"],
+"experience_level": "senior",
+"growth_score": 9
+},
+{
+"id": "j103",
+"title": "Interaction Designer",
+"industry": "Design",
+"description": "Designs interactive digital experiences",
+"salary_range": [75000, 105000],
+"required_skills": ["interaction-design", "prototyping", "figma", "user-research", "animation"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j104",
+"title": "Service Designer",
+"industry": "Design",
+"description": "Designs end-to-end service experiences",
+"salary_range": [80000, 110000],
+"required_skills": ["service-design", "user-research", "journey-mapping", "strategy", "facilitation"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j105",
+"title": "Accessibility Specialist",
+"industry": "Tech",
+"description": "Ensures digital products are accessible to all users",
+"salary_range": [70000, 95000],
+"required_skills": ["accessibility", "wcag", "html", "testing", "advocacy"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j106",
+"title": "Front-End Architect",
+"industry": "Tech",
+"description": "Architects frontend systems and frameworks",
+"salary_range": [115000, 155000],
+"required_skills": ["javascript", "architecture", "react", "typescript", "leadership", "performance"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j107",
+"title": "Backend Architect",
+"industry": "Tech",
+"description": "Designs backend architecture and systems",
+"salary_range": [120000, 165000],
+"required_skills": ["architecture", "microservices", "python", "sql", "leadership", "scalability"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j108",
+"title": "Enterprise Architect",
+"industry": "Tech",
+"description": "Designs enterprise-wide technical architecture",
+"salary_range": [130000, 180000],
+"required_skills": ["architecture", "strategy", "leadership", "enterprise-systems", "communication", "cloud"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j109",
+"title": "CTO",
+"industry": "Tech",
+"description": "Chief Technology Officer leading technology strategy",
+"salary_range": [150000, 250000],
+"required_skills": ["leadership", "strategy", "architecture", "management", "vision", "communication"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j110",
+"title": "VP of Engineering",
+"industry": "Tech",
+"description": "Oversees engineering organization and strategy",
+"salary_range": [160000, 240000],
+"required_skills": ["leadership", "management", "strategy", "architecture", "hiring", "communication"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j111",
+"title": "Engineering Manager",
+"industry": "Tech",
+"description": "Manages engineering team and projects",
+"salary_range": [110000, 150000],
+"required_skills": ["leadership", "management", "technical-skills", "agile", "coaching", "communication"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j112",
+"title": "Technical Lead",
+"industry": "Tech",
+"description": "Leads technical projects and mentors developers",
+"salary_range": [100000, 140000],
+"required_skills": ["technical-skills", "leadership", "architecture", "communication", "mentoring", "problem-solving"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j113",
+"title": "Release Manager",
+"industry": "Tech",
+"description": "Manages software releases and deployment processes",
+"salary_range": [85000, 115000],
+"required_skills": ["release-management", "ci-cd", "agile", "communication", "organization", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j114",
+"title": "Integration Engineer",
+"industry": "Tech",
+"description": "Develops integrations between systems",
+"salary_range": [80000, 110000],
+"required_skills": ["api", "integration", "python", "sql", "problem-solving", "communication"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j115",
+"title": "Performance Engineer",
+"industry": "Tech",
+"description": "Optimizes application performance and scalability",
+"salary_range": [95000, 130000],
+"required_skills": ["performance-optimization", "profiling", "programming", "troubleshooting", "analysis"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j116",
+"title": "Penetration Tester",
+"industry": "Tech",
+"description": "Tests systems for security vulnerabilities",
+"salary_range": [85000, 120000],
+"required_skills": ["penetration-testing", "security", "networking", "scripting", "ethical-hacking"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j117",
+"title": "Security Analyst",
+"industry": "Tech",
+"description": "Monitors and responds to security threats",
+"salary_range": [70000, 95000],
+"required_skills": ["security", "monitoring", "incident-response", "networking", "analysis"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j118",
+"title": "Senior Security Engineer",
+"industry": "Tech",
+"description": "Leads security initiatives and architecture",
+"salary_range": [115000, 155000],
+"required_skills": ["security", "architecture", "leadership", "compliance", "penetration-testing", "incident-response"],
+"experience_level": "senior",
+"growth_score": 10
+},
+{
+"id": "j119",
+"title": "Compliance Manager",
+"industry": "Business",
+"description": "Ensures regulatory compliance and manages audits",
+"salary_range": [85000, 120000],
+"required_skills": ["compliance", "regulations", "auditing", "risk-management", "communication", "documentation"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j120",
+"title": "Risk Manager",
+"industry": "Finance",
+"description": "Identifies and manages business risks",
+"salary_range": [90000, 125000],
+"required_skills": ["risk-management", "analytics", "compliance", "communication", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j121",
+"title": "Operations Manager",
+"industry": "Business",
+"description": "Oversees daily business operations",
+"salary_range": [75000, 105000],
+"required_skills": ["operations", "leadership", "problem-solving", "organization", "communication", "analytics"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j122",
+"title": "Supply Chain Manager",
+"industry": "Operations",
+"description": "Manages supply chain and logistics operations",
+"salary_range": [80000, 115000],
+"required_skills": ["supply-chain", "logistics", "analytics", "negotiation", "leadership", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j123",
+"title": "Logistics Coordinator",
+"industry": "Operations",
+"description": "Coordinates shipping and logistics activities",
+"salary_range": [45000, 60000],
+"required_skills": ["logistics", "organization", "communication", "problem-solving", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j124",
+"title": "Warehouse Manager",
+"industry": "Operations",
+"description": "Manages warehouse operations and staff",
+"salary_range": [60000, 80000],
+"required_skills": ["warehouse-management", "leadership", "inventory", "logistics", "safety"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j125",
+"title": "Procurement Specialist",
+"industry": "Operations",
+"description": "Manages purchasing and vendor relationships",
+"salary_range": [55000, 75000],
+"required_skills": ["procurement", "negotiation", "vendor-management", "analytics", "communication"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j126",
+"title": "Quality Assurance Manager",
+"industry": "Operations",
+"description": "Oversees quality assurance processes and standards",
+"salary_range": [80000, 110000],
+"required_skills": ["quality-assurance", "leadership", "process-improvement", "analytics", "communication"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j127",
+"title": "Mechanical Engineer",
+"industry": "Engineering",
+"description": "Designs and develops mechanical systems",
+"salary_range": [70000, 95000],
+"required_skills": ["mechanical-engineering", "cad", "design", "problem-solving", "physics"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j128",
+"title": "Senior Mechanical Engineer",
+"industry": "Engineering",
+"description": "Leads mechanical engineering projects",
+"salary_range": [95000, 130000],
+"required_skills": ["mechanical-engineering", "cad", "leadership", "project-management", "design", "analysis"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j129",
+"title": "Electrical Engineer",
+"industry": "Engineering",
+"description": "Designs electrical systems and components",
+"salary_range": [70000, 95000],
+"required_skills": ["electrical-engineering", "circuit-design", "cad", "problem-solving", "testing"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j130",
+"title": "Senior Electrical Engineer",
+"industry": "Engineering",
+"description": "Leads electrical engineering projects",
+"salary_range": [95000, 130000],
+"required_skills": ["electrical-engineering", "circuit-design", "leadership", "project-management", "analysis"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j131",
+"title": "Civil Engineer",
+"industry": "Engineering",
+"description": "Designs infrastructure and construction projects",
+"salary_range": [65000, 85000],
+"required_skills": ["civil-engineering", "cad", "project-management", "analysis", "regulations"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j132",
+"title": "Senior Civil Engineer",
+"industry": "Engineering",
+"description": "Leads civil engineering projects",
+"salary_range": [90000, 125000],
+"required_skills": ["civil-engineering", "project-management", "leadership", "design", "regulations", "analysis"],
+"experience_level": "senior",
+"growth_score": 6
+},
+{
+"id": "j133",
+"title": "Chemical Engineer",
+"industry": "Engineering",
+"description": "Develops chemical processes and products",
+"salary_range": [70000, 95000],
+"required_skills": ["chemical-engineering", "process-design", "chemistry", "analysis", "safety"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j134",
+"title": "Biomedical Engineer",
+"industry": "Healthcare",
+"description": "Develops medical devices and healthcare technologies",
+"salary_range": [70000, 95000],
+"required_skills": ["biomedical-engineering", "medical-devices", "design", "testing", "regulations"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j135",
+"title": "Environmental Engineer",
+"industry": "Engineering",
+"description": "Develops solutions for environmental challenges",
+"salary_range": [65000, 85000],
+"required_skills": ["environmental-engineering", "sustainability", "regulations", "analysis", "project-management"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j136",
+"title": "Manufacturing Engineer",
+"industry": "Engineering",
+"description": "Optimizes manufacturing processes and systems",
+"salary_range": [70000, 90000],
+"required_skills": ["manufacturing", "process-improvement", "cad", "lean", "problem-solving"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j137",
+"title": "Industrial Engineer",
+"industry": "Engineering",
+"description": "Optimizes complex processes and systems",
+"salary_range": [68000, 88000],
+"required_skills": ["industrial-engineering", "process-improvement", "analytics", "lean", "optimization"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j138",
+"title": "Sustainability Manager",
+"industry": "Business",
+"description": "Develops and implements sustainability initiatives",
+"salary_range": [75000, 105000],
+"required_skills": ["sustainability", "strategy", "analytics", "communication", "project-management"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j139",
+"title": "ESG Analyst",
+"industry": "Finance",
+"description": "Analyzes environmental, social, and governance factors",
+"salary_range": [65000, 90000],
+"required_skills": ["esg", "analytics", "research", "sustainability", "reporting"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j140",
+"title": "Nurse Practitioner",
+"industry": "Healthcare",
+"description": "Provides advanced nursing care and treatment",
+"salary_range": [95000, 125000],
+"required_skills": ["nursing", "patient-care", "diagnosis", "medical-knowledge", "communication"],
+"experience_level": "senior",
+"growth_score": 8
+},
+{
+"id": "j141",
+"title": "Registered Nurse",
+"industry": "Healthcare",
+"description": "Provides patient care and support",
+"salary_range": [65000, 85000],
+"required_skills": ["nursing", "patient-care", "medical-knowledge", "communication", "empathy"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j142",
+"title": "Medical Assistant",
+"industry": "Healthcare",
+"description": "Supports healthcare providers with patient care",
+"salary_range": [35000, 45000],
+"required_skills": ["patient-care", "medical-terminology", "organization", "communication", "empathy"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j143",
+"title": "Physical Therapist",
+"industry": "Healthcare",
+"description": "Helps patients recover movement and manage pain",
+"salary_range": [75000, 95000],
+"required_skills": ["physical-therapy", "patient-care", "anatomy", "communication", "empathy"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j144",
+"title": "Occupational Therapist",
+"industry": "Healthcare",
+"description": "Helps patients develop daily living skills",
+"salary_range": [75000, 95000],
+"required_skills": ["occupational-therapy", "patient-care", "assessment", "communication", "empathy"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j145",
+"title": "Pharmacist",
+"industry": "Healthcare",
+"description": "Dispenses medications and provides pharmaceutical care",
+"salary_range": [110000, 140000],
+"required_skills": ["pharmacy", "medical-knowledge", "patient-care", "communication", "attention-to-detail"],
+"experience_level": "senior",
+"growth_score": 6
+},
+{
+"id": "j146",
+"title": "Medical Lab Technician",
+"industry": "Healthcare",
+"description": "Performs laboratory tests and analyses",
+"salary_range": [45000, 60000],
+"required_skills": ["lab-techniques", "medical-knowledge", "attention-to-detail", "equipment", "analysis"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j147",
+"title": "Radiologic Technologist",
+"industry": "Healthcare",
+"description": "Performs diagnostic imaging procedures",
+"salary_range": [55000, 75000],
+"required_skills": ["radiology", "medical-imaging", "patient-care", "equipment", "safety"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j148",
+"title": "Healthcare Administrator",
+"industry": "Healthcare",
+"description": "Manages healthcare facility operations",
+"salary_range": [75000, 105000],
+"required_skills": ["healthcare-management", "leadership", "operations", "compliance", "communication"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j149",
+"title": "Clinical Research Coordinator",
+"industry": "Healthcare",
+"description": "Coordinates clinical trials and research studies",
+"salary_range": [55000, 75000],
+"required_skills": ["clinical-research", "organization", "regulations", "communication", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j150",
+"title": "Health Informatics Specialist",
+"industry": "Healthcare",
+"description": "Manages healthcare data and information systems",
+"salary_range": [70000, 95000],
+"required_skills": ["health-informatics", "data-management", "healthcare-systems", "analytics", "communication"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j151",
+"title": "Teacher",
+"industry": "Education",
+"description": "Educates and mentors students",
+"salary_range": [45000, 65000],
+"required_skills": ["teaching", "communication", "curriculum-development", "patience", "empathy"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j152",
+"title": "Special Education Teacher",
+"industry": "Education",
+"description": "Teaches students with special needs",
+"salary_range": [50000, 70000],
+"required_skills": ["special-education", "teaching", "patience", "empathy", "individualized-instruction"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j153",
+"title": "School Counselor",
+"industry": "Education",
+"description": "Provides academic and emotional support to students",
+"salary_range": [55000, 75000],
+"required_skills": ["counseling", "communication", "empathy", "problem-solving", "student-development"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j154",
+"title": "Instructional Designer",
+"industry": "Education",
+"description": "Designs educational programs and materials",
+"salary_range": [60000, 85000],
+"required_skills": ["instructional-design", "curriculum-development", "e-learning", "communication", "creativity"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j155",
+"title": "Education Technology Specialist",
+"industry": "Education",
+"description": "Integrates technology into educational settings",
+"salary_range": [55000, 75000],
+"required_skills": ["educational-technology", "teaching", "technical-skills", "communication", "training"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j156",
+"title": "Corporate Trainer",
+"industry": "Business",
+"description": "Develops and delivers employee training programs",
+"salary_range": [60000, 85000],
+"required_skills": ["training", "facilitation", "communication", "curriculum-development", "presentation"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j157",
+"title": "Learning and Development Manager",
+"industry": "Business",
+"description": "Leads employee development and training initiatives",
+"salary_range": [85000, 115000],
+"required_skills": ["training", "leadership", "curriculum-development", "strategy", "communication", "analytics"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j158",
+"title": "Chef",
+"industry": "Hospitality",
+"description": "Prepares meals and manages kitchen operations",
+"salary_range": [45000, 65000],
+"required_skills": ["cooking", "food-safety", "creativity", "leadership", "organization"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j159",
+"title": "Restaurant Manager",
+"industry": "Hospitality",
+"description": "Manages restaurant operations and staff",
+"salary_range": [50000, 70000],
+"required_skills": ["restaurant-management", "leadership", "customer-service", "operations", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j160",
+"title": "Hotel Manager",
+"industry": "Hospitality",
+"description": "Oversees hotel operations and guest services",
+"salary_range": [60000, 85000],
+"required_skills": ["hospitality-management", "leadership", "customer-service", "operations", "communication"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j161",
+"title": "Event Coordinator",
+"industry": "Hospitality",
+"description": "Plans and executes events and meetings",
+"salary_range": [45000, 65000],
+"required_skills": ["event-planning", "organization", "communication", "negotiation", "creativity"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j162",
+"title": "Event Manager",
+"industry": "Hospitality",
+"description": "Manages large-scale events and client relationships",
+"salary_range": [65000, 90000],
+"required_skills": ["event-planning", "leadership", "client-management", "budget-management", "communication"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j163",
+"title": "Real Estate Agent",
+"industry": "Real Estate",
+"description": "Helps clients buy, sell, and rent properties",
+"salary_range": [40000, 80000],
+"required_skills": ["sales", "negotiation", "communication", "real-estate-knowledge", "networking"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j164",
+"title": "Real Estate Broker",
+"industry": "Real Estate",
+"description": "Manages real estate transactions and agents",
+"salary_range": [60000, 120000],
+"required_skills": ["real-estate", "leadership", "sales", "negotiation", "business-development"],
+"experience_level": "senior",
+"growth_score": 6
+},
+{
+"id": "j165",
+"title": "Property Manager",
+"industry": "Real Estate",
+"description": "Manages rental properties and tenant relations",
+"salary_range": [50000, 70000],
+"required_skills": ["property-management", "communication", "organization", "problem-solving", "maintenance"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j166",
+"title": "Architect",
+"industry": "Architecture",
+"description": "Designs buildings and structures",
+"salary_range": [70000, 95000],
+"required_skills": ["architecture", "design", "cad", "creativity", "project-management"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j167",
+"title": "Senior Architect",
+"industry": "Architecture",
+"description": "Leads architectural projects and teams",
+"salary_range": [95000, 130000],
+"required_skills": ["architecture", "design", "leadership", "project-management", "client-relations", "cad"],
+"experience_level": "senior",
+"growth_score": 7
+},
+{
+"id": "j168",
+"title": "Interior Designer",
+"industry": "Design",
+"description": "Designs interior spaces for functionality and aesthetics",
+"salary_range": [50000, 70000],
+"required_skills": ["interior-design", "design", "cad", "creativity", "client-relations"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j169",
+"title": "Urban Planner",
+"industry": "Planning",
+"description": "Plans land use and community development",
+"salary_range": [65000, 85000],
+"required_skills": ["urban-planning", "gis", "analysis", "regulations", "communication"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j170",
+"title": "Landscape Architect",
+"industry": "Architecture",
+"description": "Designs outdoor spaces and landscapes",
+"salary_range": [60000, 80000],
+"required_skills": ["landscape-architecture", "design", "cad", "horticulture", "project-management"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j171",
+"title": "Paralegal",
+"industry": "Legal",
+"description": "Assists lawyers with legal research and documentation",
+"salary_range": [50000, 70000],
+"required_skills": ["legal-research", "writing", "organization", "attention-to-detail", "communication"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j172",
+"title": "Legal Assistant",
+"industry": "Legal",
+"description": "Provides administrative support to legal teams",
+"salary_range": [40000, 55000],
+"required_skills": ["legal-knowledge", "organization", "communication", "attention-to-detail", "software"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j173",
+"title": "Contract Manager",
+"industry": "Legal",
+"description": "Manages contracts and negotiates terms",
+"salary_range": [75000, 105000],
+"required_skills": ["contract-management", "negotiation", "legal-knowledge", "communication", "attention-to-detail"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j174",
+"title": "Journalist",
+"industry": "Media",
+"description": "Reports news and writes articles",
+"salary_range": [45000, 65000],
+"required_skills": ["writing", "research", "interviewing", "communication", "ethics"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j175",
+"title": "Editor",
+"industry": "Media",
+"description": "Edits and refines written content",
+"salary_range": [55000, 75000],
+"required_skills": ["editing", "writing", "attention-to-detail", "communication", "grammar"],
+"experience_level": "mid",
+"growth_score": 6
+},
+{
+"id": "j176",
+"title": "Photographer",
+"industry": "Media",
+"description": "Captures and edits photographs",
+"salary_range": [40000, 60000],
+"required_skills": ["photography", "editing", "creativity", "technical-skills", "communication"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j177",
+"title": "Videographer",
+"industry": "Media",
+"description": "Films and edits video content",
+"salary_range": [45000, 65000],
+"required_skills": ["videography", "video-editing", "creativity", "technical-skills", "storytelling"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j178",
+"title": "Podcast Producer",
+"industry": "Media",
+"description": "Produces and edits podcast content",
+"salary_range": [50000, 70000],
+"required_skills": ["audio-production", "editing", "storytelling", "organization", "creativity"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j179",
+"title": "Social Media Analyst",
+"industry": "Marketing",
+"description": "Analyzes social media metrics and trends",
+"salary_range": [55000, 75000],
+"required_skills": ["social-media", "analytics", "reporting", "communication", "trends"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j180",
+"title": "Community Manager",
+"industry": "Marketing",
+"description": "Manages online communities and engagement",
+"salary_range": [50000, 70000],
+"required_skills": ["community-management", "social-media", "communication", "empathy", "moderation"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j181",
+"title": "Influencer Marketing Manager",
+"industry": "Marketing",
+"description": "Manages influencer partnerships and campaigns",
+"salary_range": [70000, 95000],
+"required_skills": ["influencer-marketing", "negotiation", "social-media", "analytics", "communication"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j182",
+"title": "Growth Marketing Manager",
+"industry": "Marketing",
+"description": "Drives user acquisition and growth strategies",
+"salary_range": [90000, 125000],
+"required_skills": ["growth-marketing", "analytics", "experimentation", "strategy", "technical-skills"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j183",
+"title": "Performance Marketing Manager",
+"industry": "Marketing",
+"description": "Manages performance-based marketing campaigns",
+"salary_range": [85000, 115000],
+"required_skills": ["performance-marketing", "analytics", "google-ads", "optimization", "roi-analysis"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j184",
+"title": "Affiliate Marketing Manager",
+"industry": "Marketing",
+"description": "Manages affiliate marketing programs and partnerships",
+"salary_range": [75000, 100000],
+"required_skills": ["affiliate-marketing", "partnership-management", "analytics", "negotiation", "communication"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j185",
+"title": "E-commerce Manager",
+"industry": "Business",
+"description": "Manages online store operations and strategy",
+"salary_range": [75000, 105000],
+"required_skills": ["e-commerce", "analytics", "marketing", "operations", "optimization"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j186",
+"title": "Conversion Rate Optimizer",
+"industry": "Marketing",
+"description": "Optimizes websites for conversions and sales",
+"salary_range": [70000, 95000],
+"required_skills": ["cro", "analytics", "a-b-testing", "user-research", "optimization"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j187",
+"title": "Marketing Automation Specialist",
+"industry": "Marketing",
+"description": "Develops automated marketing workflows",
+"salary_range": [65000, 90000],
+"required_skills": ["marketing-automation", "email-marketing", "analytics", "technical-skills", "strategy"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j188",
+"title": "Venture Capital Analyst",
+"industry": "Finance",
+"description": "Analyzes investment opportunities in startups",
+"salary_range": [80000, 110000],
+"required_skills": ["financial-analysis", "valuation", "research", "communication", "deal-sourcing"],
+"experience_level": "entry",
+"growth_score": 9
+},
+{
+"id": "j189",
+"title": "Private Equity Analyst",
+"industry": "Finance",
+"description": "Analyzes private equity investment opportunities",
+"salary_range": [85000, 115000],
+"required_skills": ["financial-modeling", "valuation", "due-diligence", "excel", "analysis"],
+"experience_level": "entry",
+"growth_score": 8
+},
+{
+"id": "j190",
+"title": "Credit Analyst",
+"industry": "Finance",
+"description": "Assesses creditworthiness of borrowers",
+"salary_range": [60000, 80000],
+"required_skills": ["credit-analysis", "financial-analysis", "risk-assessment", "excel", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j191",
+"title": "Treasury Analyst",
+"industry": "Finance",
+"description": "Manages company cash and financial assets",
+"salary_range": [65000, 85000],
+"required_skills": ["treasury", "financial-analysis", "cash-management", "excel", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 7
+},
+{
+"id": "j192",
+"title": "Tax Analyst",
+"industry": "Finance",
+"description": "Prepares tax returns and ensures compliance",
+"salary_range": [60000, 80000],
+"required_skills": ["taxation", "accounting", "compliance", "excel", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j193",
+"title": "Actuary",
+"industry": "Finance",
+"description": "Analyzes financial risks using mathematics and statistics",
+"salary_range": [90000, 130000],
+"required_skills": ["actuarial-science", "statistics", "risk-analysis", "excel", "mathematics"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j194",
+"title": "Insurance Underwriter",
+"industry": "Finance",
+"description": "Evaluates insurance applications and risk",
+"salary_range": [60000, 80000],
+"required_skills": ["underwriting", "risk-assessment", "analysis", "attention-to-detail", "communication"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j195",
+"title": "Claims Adjuster",
+"industry": "Insurance",
+"description": "Investigates and settles insurance claims",
+"salary_range": [55000, 75000],
+"required_skills": ["claims-processing", "investigation", "negotiation", "communication", "attention-to-detail"],
+"experience_level": "entry",
+"growth_score": 6
+},
+{
+"id": "j196",
+"title": "Economist",
+"industry": "Research",
+"description": "Analyzes economic data and trends",
+"salary_range": [75000, 105000],
+"required_skills": ["economics", "statistics", "research", "analysis", "communication"],
+"experience_level": "mid",
+"growth_score": 7
+},
+{
+"id": "j197",
+"title": "Statistician",
+"industry": "Research",
+"description": "Applies statistical methods to solve problems",
+"salary_range": [75000, 100000],
+"required_skills": ["statistics", "r", "python", "analysis", "research"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j198",
+"title": "Quantitative Analyst",
+"industry": "Finance",
+"description": "Develops mathematical models for financial markets",
+"salary_range": [95000, 140000],
+"required_skills": ["quantitative-analysis", "mathematics", "python", "statistics", "financial-modeling"],
+"experience_level": "mid",
+"growth_score": 9
+},
+{
+"id": "j199",
+"title": "Strategy Consultant",
+"industry": "Consulting",
+"description": "Advises companies on business strategy",
+"salary_range": [90000, 130000],
+"required_skills": ["strategy", "consulting", "analytics", "communication", "problem-solving"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j200",
+"title": "Management Consultant",
+"industry": "Consulting",
+"description": "Helps organizations improve performance",
+"salary_range": [85000, 120000],
+"required_skills": ["consulting", "analysis", "problem-solving", "communication", "project-management"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j201",
+"title": "IT Consultant",
+"industry": "Consulting",
+"description": "Advises on technology solutions and implementations",
+"salary_range": [80000, 115000],
+"required_skills": ["consulting", "technical-skills", "problem-solving", "communication", "project-management"],
+"experience_level": "mid",
+"growth_score": 8
+},
+{
+"id": "j202",
+"title": "Cybersecurity Consultant",
+"industry": "Consulting",
+"description": "Advises on security strategy and implementations",
+"salary_range": [100000, 145000],
+"required_skills": ["cybersecurity", "consulting", "risk-assessment", "compliance", "communication"],
+"experience_level": "senior",
+"growth_score": 10
+},
+{
+"id": "j203",
+"title": "Blockchain Architect",
+"industry": "Tech",
+"description": "Designs blockchain solutions and architecture",
+"salary_range": [120000, 170000],
+"required_skills": ["blockchain", "architecture", "cryptography", "smart-contracts", "leadership"],
+"experience_level": "senior",
+"growth_score": 9
+},
+{
+"id": "j204",
+"title": "AI Product Manager",
+"industry": "Tech",
+"description": "Manages AI and machine learning products",
+"salary_range": [110000, 155000],
+"required_skills": ["product-management", "machine-learning", "strategy", "technical-skills", "communication"],
+"experience_level": "senior",
+"growth_score": 10
+},
+{
+"id": "j205",
+"title": "Revenue Operations Manager",
+"industry": "Business",
+"description": "Optimizes revenue processes and operations",
+"salary_range": [90000, 125000],
+"required_skills": ["revenue-operations", "analytics", "crm", "process-optimization", "strategy"],
+"experience_level": "mid",
+"growth_score": 9
 }
 ]

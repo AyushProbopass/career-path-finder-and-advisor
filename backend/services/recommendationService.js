@@ -80,24 +80,31 @@ class RecommendationService {
     });
 
     // Sort by match score and return top 5
+    const inrFormatter = new Intl.NumberFormat('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 });
+
     return recommendations
       .sort((a, b) => b.match_score - a.match_score)
       .slice(0, 5)
       .map(job => ({
         ...job,
-        career_path: this.getCareerPath(job.title),
-        salary_range_formatted: `$${job.salary_range[0].toLocaleString()} - $${job.salary_range[1].toLocaleString()}`
+        career_path: this.getCareerPath(job.title, inrFormatter),
+        salary_range_formatted: `${inrFormatter.format(job.salary_range[0])} - ${inrFormatter.format(job.salary_range[1])}`
       }));
   }
 
-  getCareerPath(jobTitle) {
+  getCareerPath(jobTitle, formatter) {
     const path = this.paths[jobTitle] || [];
     const detailedPath = path.map(nextJob => {
       const jobDetails = this.jobs.find(j => j.title === nextJob);
       if (jobDetails) {
+        const salaryFormatted = formatter
+          ? `${formatter.format(jobDetails.salary_range[0])} - ${formatter.format(jobDetails.salary_range[1])}`
+          : undefined;
+
         return {
           title: nextJob,
           salary_range: jobDetails.salary_range,
+          salary_range_formatted: salaryFormatted,
           required_skills: jobDetails.required_skills,
           experience_level: jobDetails.experience_level
         };

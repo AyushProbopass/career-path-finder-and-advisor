@@ -1,17 +1,1232 @@
 {
-"Junior Frontend Developer": [
-"Senior Frontend Developer",
-"UI/UX Designer",
-"Full-Stack Developer"
-],
-"Junior Backend Developer": [
-"Senior Backend Developer",
-"DevOps Engineer",
-"Full-Stack Developer"
-],
-"Data Analyst": [
-"Senior Data Analyst",
-"Data Scientist",
-"Business Intelligence Manager"
-]
+  "Junior Frontend Developer": [
+    "Senior Frontend Developer",
+    "Full Stack Developer",
+    "UI Designer",
+    "Front-End Architect"
+  ],
+  "Junior Backend Developer": [
+    "Senior Backend Developer",
+    "Full Stack Developer",
+    "DevOps Engineer",
+    "Backend Architect"
+  ],
+  "Data Analyst": [
+    "Senior BI Analyst",
+    "Data Scientist",
+    "Business Analyst",
+    "Data Engineer"
+  ],
+  "Senior Frontend Developer": [
+    "Front-End Architect",
+    "Engineering Manager",
+    "Technical Lead",
+    "Senior Full Stack Developer"
+  ],
+  "Data Scientist": [
+    "Senior Data Scientist",
+    "Machine Learning Engineer",
+    "AI Product Manager",
+    "Research Scientist"
+  ],
+  "DevOps Engineer": [
+    "Senior DevOps Engineer",
+    "Cloud Architect",
+    "Site Reliability Engineer",
+    "Solutions Architect"
+  ],
+  "Product Manager": [
+    "Senior Product Manager",
+    "Technical Product Manager",
+    "VP of Product",
+    "Chief Product Officer"
+  ],
+  "UX Designer": [
+    "Senior UX Designer",
+    "Product Designer",
+    "UX Researcher",
+    "Design Manager"
+  ],
+  "Full Stack Developer": [
+    "Senior Full Stack Developer",
+    "Technical Lead",
+    "Solutions Architect",
+    "Engineering Manager"
+  ],
+  "Mobile Developer": [
+    "Senior Mobile Developer",
+    "iOS Developer",
+    "Android Developer",
+    "Mobile Architect"
+  ],
+  "QA Engineer": [
+    "QA Automation Engineer",
+    "Senior QA Engineer",
+    "QA Manager",
+    "DevOps Engineer"
+  ],
+  "UI Designer": [
+    "Senior UI Designer",
+    "Product Designer",
+    "UX Designer",
+    "Brand Designer"
+  ],
+  "Digital Marketing Specialist": [
+    "Marketing Manager",
+    "SEO Specialist",
+    "Performance Marketing Manager",
+    "Growth Marketing Manager"
+  ],
+  "Content Writer": [
+    "Content Marketing Manager",
+    "Senior Copywriter",
+    "Editor",
+    "Technical Writer"
+  ],
+  "Social Media Manager": [
+    "Marketing Manager",
+    "Community Manager",
+    "Influencer Marketing Manager",
+    "Brand Manager"
+  ],
+  "Business Analyst": [
+    "Senior Business Analyst",
+    "Product Manager",
+    "Project Manager",
+    "Strategy Consultant"
+  ],
+  "HR Coordinator": [
+    "Recruiter",
+    "HR Manager",
+    "Talent Acquisition Manager",
+    "Employee Relations Manager"
+  ],
+  "Financial Analyst": [
+    "Senior Financial Analyst",
+    "Finance Manager",
+    "Investment Analyst",
+    "Controller"
+  ],
+  "Customer Success Manager": [
+    "Senior Customer Success Manager",
+    "Account Executive",
+    "Sales Manager",
+    "Customer Experience Manager"
+  ],
+  "Graphic Designer": [
+    "Senior Graphic Designer",
+    "UI Designer",
+    "Art Director",
+    "Brand Designer"
+  ],
+  "Senior Backend Developer": [
+    "Backend Architect",
+    "Engineering Manager",
+    "Technical Lead",
+    "VP of Engineering"
+  ],
+  "Senior Full Stack Developer": [
+    "Engineering Manager",
+    "Solutions Architect",
+    "Technical Lead",
+    "CTO"
+  ],
+  "Machine Learning Engineer": [
+    "Senior Data Scientist",
+    "AI Product Manager",
+    "Research Scientist",
+    "ML Architect"
+  ],
+  "Cloud Architect": [
+    "Enterprise Architect",
+    "Solutions Architect",
+    "VP of Infrastructure",
+    "CTO"
+  ],
+  "Security Engineer": [
+    "Senior Security Engineer",
+    "Security Architect",
+    "Penetration Tester",
+    "CISO"
+  ],
+  "iOS Developer": [
+    "Senior Mobile Developer",
+    "Mobile Architect",
+    "Engineering Manager",
+    "Technical Lead"
+  ],
+  "Android Developer": [
+    "Senior Mobile Developer",
+    "Mobile Architect",
+    "Engineering Manager",
+    "Technical Lead"
+  ],
+  "Senior Mobile Developer": [
+    "Mobile Architect",
+    "Engineering Manager",
+    "Technical Lead",
+    "VP of Engineering"
+  ],
+  "QA Automation Engineer": [
+    "Senior QA Engineer",
+    "DevOps Engineer",
+    "Test Architect",
+    "QA Manager"
+  ],
+  "Senior QA Engineer": [
+    "QA Manager",
+    "Test Architect",
+    "Engineering Manager",
+    "Director of Quality"
+  ],
+  "Product Designer": [
+    "Senior Product Designer",
+    "Design Manager",
+    "UX Researcher",
+    "Design Director"
+  ],
+  "Senior UX Designer": [
+    "Senior Product Designer",
+    "Design Manager",
+    "UX Director",
+    "VP of Design"
+  ],
+  "Senior Product Designer": [
+    "Design Manager",
+    "Design Director",
+    "VP of Design",
+    "Creative Director"
+  ],
+  "Marketing Manager": [
+    "Senior Marketing Manager",
+    "Marketing Director",
+    "Brand Manager",
+    "VP of Marketing"
+  ],
+  "Senior Marketing Manager": [
+    "Marketing Director",
+    "VP of Marketing",
+    "Chief Marketing Officer",
+    "Brand Director"
+  ],
+  "SEO Specialist": [
+    "Senior SEO Manager",
+    "Digital Marketing Manager",
+    "Growth Marketing Manager",
+    "Marketing Manager"
+  ],
+  "Senior SEO Manager": [
+    "Marketing Director",
+    "Growth Marketing Manager",
+    "VP of Marketing",
+    "Digital Marketing Director"
+  ],
+  "Content Marketing Manager": [
+    "Senior Marketing Manager",
+    "Marketing Director",
+    "Brand Manager",
+    "VP of Marketing"
+  ],
+  "Email Marketing Specialist": [
+    "Marketing Automation Specialist",
+    "Marketing Manager",
+    "CRM Manager",
+    "Growth Marketing Manager"
+  ],
+  "PPC Specialist": [
+    "Performance Marketing Manager",
+    "Marketing Manager",
+    "Growth Marketing Manager",
+    "Digital Marketing Manager"
+  ],
+  "Brand Manager": [
+    "Senior Brand Manager",
+    "Marketing Director",
+    "VP of Marketing",
+    "Chief Brand Officer"
+  ],
+  "Sales Development Representative": [
+    "Account Executive",
+    "Sales Manager",
+    "Business Development Manager",
+    "Customer Success Manager"
+  ],
+  "Account Executive": [
+    "Sales Manager",
+    "Senior Account Executive",
+    "Business Development Manager",
+    "Director of Sales"
+  ],
+  "Sales Manager": [
+    "Senior Sales Manager",
+    "Director of Sales",
+    "VP of Sales",
+    "Chief Revenue Officer"
+  ],
+  "Senior Sales Manager": [
+    "Director of Sales",
+    "VP of Sales",
+    "Chief Revenue Officer",
+    "Chief Sales Officer"
+  ],
+  "Business Development Manager": [
+    "Senior Business Development Manager",
+    "Director of Business Development",
+    "VP of Business Development",
+    "Chief Business Officer"
+  ],
+  "Senior Business Analyst": [
+    "Product Manager",
+    "Strategy Consultant",
+    "Director of Analytics",
+    "VP of Strategy"
+  ],
+  "Project Manager": [
+    "Senior Project Manager",
+    "Program Manager",
+    "Director of Project Management",
+    "VP of Operations"
+  ],
+  "Senior Project Manager": [
+    "Program Manager",
+    "Director of Project Management",
+    "VP of Operations",
+    "Chief Operating Officer"
+  ],
+  "Scrum Master": [
+    "Senior Scrum Master",
+    "Agile Coach",
+    "Project Manager",
+    "Engineering Manager"
+  ],
+  "Senior Product Manager": [
+    "Director of Product",
+    "VP of Product",
+    "Chief Product Officer",
+    "General Manager"
+  ],
+  "Technical Product Manager": [
+    "Senior Product Manager",
+    "Director of Product",
+    "VP of Product",
+    "Engineering Manager"
+  ],
+  "HR Manager": [
+    "Senior HR Manager",
+    "Director of HR",
+    "VP of HR",
+    "Chief People Officer"
+  ],
+  "Recruiter": [
+    "Senior Recruiter",
+    "Talent Acquisition Manager",
+    "Recruiting Manager",
+    "Director of Talent"
+  ],
+  "Senior Recruiter": [
+    "Talent Acquisition Manager",
+    "Recruiting Manager",
+    "Director of Talent",
+    "VP of Talent"
+  ],
+  "Talent Acquisition Manager": [
+    "Director of Talent",
+    "VP of Talent",
+    "Chief People Officer",
+    "HR Manager"
+  ],
+  "Accountant": [
+    "Senior Accountant",
+    "Accounting Manager",
+    "Controller",
+    "Tax Analyst"
+  ],
+  "Senior Accountant": [
+    "Accounting Manager",
+    "Controller",
+    "Finance Manager",
+    "Director of Accounting"
+  ],
+  "Senior Financial Analyst": [
+    "Finance Manager",
+    "Director of Finance",
+    "Controller",
+    "VP of Finance"
+  ],
+  "Finance Manager": [
+    "Director of Finance",
+    "Controller",
+    "VP of Finance",
+    "CFO"
+  ],
+  "Controller": [
+    "VP of Finance",
+    "CFO",
+    "Chief Accounting Officer",
+    "Director of Finance"
+  ],
+  "Investment Analyst": [
+    "Senior Investment Analyst",
+    "Portfolio Manager",
+    "Venture Capital Analyst",
+    "Private Equity Analyst"
+  ],
+  "Data Engineer": [
+    "Senior Data Engineer",
+    "Data Architect",
+    "Engineering Manager",
+    "Machine Learning Engineer"
+  ],
+  "Senior Data Engineer": [
+    "Data Architect",
+    "Engineering Manager",
+    "Director of Data Engineering",
+    "VP of Data"
+  ],
+  "Senior Data Scientist": [
+    "Lead Data Scientist",
+    "Machine Learning Engineer",
+    "Director of Data Science",
+    "VP of Data Science"
+  ],
+  "BI Analyst": [
+    "Senior BI Analyst",
+    "Data Analyst",
+    "Business Analyst",
+    "Analytics Manager"
+  ],
+  "Senior BI Analyst": [
+    "Analytics Manager",
+    "Director of Analytics",
+    "Data Scientist",
+    "VP of Analytics"
+  ],
+  "Systems Administrator": [
+    "Senior Systems Administrator",
+    "DevOps Engineer",
+    "Infrastructure Engineer",
+    "IT Manager"
+  ],
+  "Senior Systems Administrator": [
+    "Infrastructure Manager",
+    "DevOps Engineer",
+    "IT Manager",
+    "Director of IT"
+  ],
+  "Network Engineer": [
+    "Senior Network Engineer",
+    "Network Architect",
+    "Infrastructure Manager",
+    "Security Engineer"
+  ],
+  "Senior Network Engineer": [
+    "Network Architect",
+    "Infrastructure Manager",
+    "Director of Infrastructure",
+    "VP of IT"
+  ],
+  "IT Support Specialist": [
+    "Technical Support Engineer",
+    "Systems Administrator",
+    "IT Manager",
+    "Desktop Support Manager"
+  ],
+  "Technical Support Engineer": [
+    "Senior Support Engineer",
+    "DevOps Engineer",
+    "Systems Administrator",
+    "Support Manager"
+  ],
+  "Solutions Architect": [
+    "Enterprise Architect",
+    "Cloud Architect",
+    "VP of Architecture",
+    "CTO"
+  ],
+  "Database Administrator": [
+    "Senior Database Administrator",
+    "Data Engineer",
+    "Database Architect",
+    "DBA Manager"
+  ],
+  "Senior Database Administrator": [
+    "Database Architect",
+    "Data Architect",
+    "Director of Data",
+    "VP of Data"
+  ],
+  "Site Reliability Engineer": [
+    "Senior SRE",
+    "DevOps Engineer",
+    "Infrastructure Architect",
+    "Engineering Manager"
+  ],
+  "Senior DevOps Engineer": [
+    "DevOps Architect",
+    "Cloud Architect",
+    "Engineering Manager",
+    "VP of Infrastructure"
+  ],
+  "Blockchain Developer": [
+    "Senior Blockchain Developer",
+    "Blockchain Architect",
+    "Smart Contract Engineer",
+    "Crypto Protocol Engineer"
+  ],
+  "Game Developer": [
+    "Senior Game Developer",
+    "Lead Game Developer",
+    "Game Designer",
+    "Technical Director"
+  ],
+  "Senior Game Developer": [
+    "Lead Game Developer",
+    "Technical Director",
+    "Game Director",
+    "VP of Engineering"
+  ],
+  "AR/VR Developer": [
+    "Senior AR/VR Developer",
+    "AR/VR Architect",
+    "3D Developer",
+    "Technical Director"
+  ],
+  "Embedded Systems Engineer": [
+    "Senior Embedded Engineer",
+    "Firmware Engineer",
+    "Embedded Architect",
+    "Engineering Manager"
+  ],
+  "Firmware Engineer": [
+    "Senior Firmware Engineer",
+    "Embedded Systems Engineer",
+    "Hardware Engineer",
+    "Engineering Manager"
+  ],
+  "Robotics Engineer": [
+    "Senior Robotics Engineer",
+    "Robotics Architect",
+    "Research Scientist",
+    "Director of Robotics"
+  ],
+  "Computer Vision Engineer": [
+    "Senior Computer Vision Engineer",
+    "Machine Learning Engineer",
+    "Research Scientist",
+    "AI Research Lead"
+  ],
+  "NLP Engineer": [
+    "Senior NLP Engineer",
+    "Machine Learning Engineer",
+    "Research Scientist",
+    "AI Research Lead"
+  ],
+  "Research Scientist": [
+    "Senior Research Scientist",
+    "Principal Research Scientist",
+    "Research Director",
+    "Chief Scientist"
+  ],
+  "Technical Writer": [
+    "Senior Technical Writer",
+    "Documentation Manager",
+    "Content Strategist",
+    "Information Architect"
+  ],
+  "Senior Technical Writer": [
+    "Documentation Manager",
+    "Content Strategist",
+    "Director of Documentation",
+    "Technical Communications Manager"
+  ],
+  "Video Editor": [
+    "Senior Video Editor",
+    "Motion Graphics Designer",
+    "Videographer",
+    "Post-Production Manager"
+  ],
+  "Motion Graphics Designer": [
+    "Senior Motion Graphics Designer",
+    "Animation Director",
+    "Art Director",
+    "Creative Director"
+  ],
+  "Senior Motion Graphics Designer": [
+    "Animation Director",
+    "Creative Director",
+    "Art Director",
+    "VP of Creative"
+  ],
+  "3D Artist": [
+    "Senior 3D Artist",
+    "3D Lead",
+    "Character Artist",
+    "Art Director"
+  ],
+  "Senior 3D Artist": [
+    "3D Lead",
+    "Art Director",
+    "Technical Art Director",
+    "Creative Director"
+  ],
+  "Illustrator": [
+    "Senior Illustrator",
+    "Art Director",
+    "Creative Director",
+    "Visual Designer"
+  ],
+  "Art Director": [
+    "Senior Art Director",
+    "Creative Director",
+    "Design Director",
+    "VP of Creative"
+  ],
+  "Creative Director": [
+    "Executive Creative Director",
+    "Chief Creative Officer",
+    "VP of Creative",
+    "Brand Director"
+  ],
+  "Copywriter": [
+    "Senior Copywriter",
+    "Content Writer",
+    "Creative Director",
+    "Brand Strategist"
+  ],
+  "Senior Copywriter": [
+    "Creative Director",
+    "Content Marketing Manager",
+    "Brand Strategist",
+    "VP of Content"
+  ],
+  "UX Researcher": [
+    "Senior UX Researcher",
+    "Research Manager",
+    "Product Designer",
+    "Director of Research"
+  ],
+  "Senior UX Researcher": [
+    "Research Manager",
+    "Director of Research",
+    "VP of Design",
+    "Head of UX"
+  ],
+  "Interaction Designer": [
+    "Senior Interaction Designer",
+    "Product Designer",
+    "UX Designer",
+    "Design Lead"
+  ],
+  "Service Designer": [
+    "Senior Service Designer",
+    "Design Strategist",
+    "Product Designer",
+    "Director of Service Design"
+  ],
+  "Accessibility Specialist": [
+    "Senior Accessibility Specialist",
+    "Accessibility Manager",
+    "UX Designer",
+    "Director of Accessibility"
+  ],
+  "Front-End Architect": [
+    "Principal Engineer",
+    "Engineering Manager",
+    "VP of Engineering",
+    "CTO"
+  ],
+  "Backend Architect": [
+    "Principal Engineer",
+    "Engineering Manager",
+    "VP of Engineering",
+    "CTO"
+  ],
+  "Enterprise Architect": [
+    "Principal Architect",
+    "Chief Architect",
+    "VP of Architecture",
+    "CTO"
+  ],
+  "CTO": [
+    "CEO",
+    "Chief Innovation Officer",
+    "Board Member",
+    "Founder"
+  ],
+  "VP of Engineering": [
+    "CTO",
+    "Chief Technology Officer",
+    "Chief Innovation Officer",
+    "COO"
+  ],
+  "Engineering Manager": [
+    "Senior Engineering Manager",
+    "Director of Engineering",
+    "VP of Engineering",
+    "CTO"
+  ],
+  "Technical Lead": [
+    "Engineering Manager",
+    "Principal Engineer",
+    "Architect",
+    "Director of Engineering"
+  ],
+  "Release Manager": [
+    "Senior Release Manager",
+    "DevOps Manager",
+    "Engineering Manager",
+    "Director of Engineering"
+  ],
+  "Integration Engineer": [
+    "Senior Integration Engineer",
+    "Solutions Architect",
+    "Integration Architect",
+    "Engineering Manager"
+  ],
+  "Performance Engineer": [
+    "Senior Performance Engineer",
+    "Site Reliability Engineer",
+    "Principal Engineer",
+    "Engineering Manager"
+  ],
+  "Penetration Tester": [
+    "Senior Penetration Tester",
+    "Security Engineer",
+    "Security Architect",
+    "Security Manager"
+  ],
+  "Security Analyst": [
+    "Security Engineer",
+    "Senior Security Analyst",
+    "Penetration Tester",
+    "Security Manager"
+  ],
+  "Senior Security Engineer": [
+    "Security Architect",
+    "Director of Security",
+    "CISO",
+    "VP of Security"
+  ],
+  "Compliance Manager": [
+    "Senior Compliance Manager",
+    "Director of Compliance",
+    "VP of Compliance",
+    "Chief Compliance Officer"
+  ],
+  "Risk Manager": [
+    "Senior Risk Manager",
+    "Director of Risk",
+    "VP of Risk Management",
+    "Chief Risk Officer"
+  ],
+  "Operations Manager": [
+    "Senior Operations Manager",
+    "Director of Operations",
+    "VP of Operations",
+    "COO"
+  ],
+  "Supply Chain Manager": [
+    "Senior Supply Chain Manager",
+    "Director of Supply Chain",
+    "VP of Supply Chain",
+    "Chief Supply Chain Officer"
+  ],
+  "Logistics Coordinator": [
+    "Logistics Manager",
+    "Supply Chain Manager",
+    "Operations Manager",
+    "Warehouse Manager"
+  ],
+  "Warehouse Manager": [
+    "Senior Warehouse Manager",
+    "Operations Manager",
+    "Director of Operations",
+    "VP of Operations"
+  ],
+  "Procurement Specialist": [
+    "Procurement Manager",
+    "Supply Chain Manager",
+    "Director of Procurement",
+    "VP of Procurement"
+  ],
+  "Quality Assurance Manager": [
+    "Senior QA Manager",
+    "Director of Quality",
+    "VP of Quality",
+    "Chief Quality Officer"
+  ],
+  "Mechanical Engineer": [
+    "Senior Mechanical Engineer",
+    "Lead Mechanical Engineer",
+    "Engineering Manager",
+    "Director of Engineering"
+  ],
+  "Senior Mechanical Engineer": [
+    "Lead Engineer",
+    "Engineering Manager",
+    "Director of Engineering",
+    "VP of Engineering"
+  ],
+  "Electrical Engineer": [
+    "Senior Electrical Engineer",
+    "Lead Electrical Engineer",
+    "Engineering Manager",
+    "Director of Engineering"
+  ],
+  "Senior Electrical Engineer": [
+    "Lead Engineer",
+    "Engineering Manager",
+    "Director of Engineering",
+    "VP of Engineering"
+  ],
+  "Civil Engineer": [
+    "Senior Civil Engineer",
+    "Project Manager",
+    "Engineering Manager",
+    "Director of Engineering"
+  ],
+  "Senior Civil Engineer": [
+    "Principal Civil Engineer",
+    "Engineering Manager",
+    "Director of Engineering",
+    "VP of Engineering"
+  ],
+  "Chemical Engineer": [
+    "Senior Chemical Engineer",
+    "Process Engineer",
+    "Engineering Manager",
+    "Director of Engineering"
+  ],
+  "Biomedical Engineer": [
+    "Senior Biomedical Engineer",
+    "Research Engineer",
+    "Engineering Manager",
+    "Director of R&D"
+  ],
+  "Environmental Engineer": [
+    "Senior Environmental Engineer",
+    "Sustainability Manager",
+    "Engineering Manager",
+    "Director of Sustainability"
+  ],
+  "Manufacturing Engineer": [
+    "Senior Manufacturing Engineer",
+    "Industrial Engineer",
+    "Engineering Manager",
+    "Director of Manufacturing"
+  ],
+  "Industrial Engineer": [
+    "Senior Industrial Engineer",
+    "Manufacturing Engineer",
+    "Engineering Manager",
+    "Director of Operations"
+  ],
+  "Sustainability Manager": [
+    "Senior Sustainability Manager",
+    "Director of Sustainability",
+    "VP of Sustainability",
+    "Chief Sustainability Officer"
+  ],
+  "ESG Analyst": [
+    "Senior ESG Analyst",
+    "ESG Manager",
+    "Sustainability Manager",
+    "Director of ESG"
+  ],
+  "Nurse Practitioner": [
+    "Lead Nurse Practitioner",
+    "Clinical Director",
+    "Director of Nursing",
+    "VP of Clinical Operations"
+  ],
+  "Registered Nurse": [
+    "Charge Nurse",
+    "Nurse Practitioner",
+    "Nursing Manager",
+    "Director of Nursing"
+  ],
+  "Medical Assistant": [
+    "Senior Medical Assistant",
+    "Medical Office Manager",
+    "Practice Manager",
+    "Registered Nurse"
+  ],
+  "Physical Therapist": [
+    "Senior Physical Therapist",
+    "Lead Physical Therapist",
+    "Clinic Director",
+    "Director of Rehabilitation"
+  ],
+  "Occupational Therapist": [
+    "Senior Occupational Therapist",
+    "Lead Occupational Therapist",
+    "Clinic Director",
+    "Director of Rehabilitation"
+  ],
+  "Pharmacist": [
+    "Senior Pharmacist",
+    "Pharmacy Manager",
+    "Director of Pharmacy",
+    "VP of Pharmacy Operations"
+  ],
+  "Medical Lab Technician": [
+    "Senior Lab Technician",
+    "Lab Supervisor",
+    "Lab Manager",
+    "Director of Laboratory Services"
+  ],
+  "Radiologic Technologist": [
+    "Senior Radiologic Technologist",
+    "Lead Technologist",
+    "Radiology Manager",
+    "Director of Radiology"
+  ],
+  "Healthcare Administrator": [
+    "Senior Healthcare Administrator",
+    "Director of Operations",
+    "VP of Healthcare Operations",
+    "Chief Operating Officer"
+  ],
+  "Clinical Research Coordinator": [
+    "Senior Research Coordinator",
+    "Clinical Research Manager",
+    "Director of Clinical Research",
+    "VP of Research"
+  ],
+  "Health Informatics Specialist": [
+    "Senior Health Informatics Specialist",
+    "Health IT Manager",
+    "Director of Health Informatics",
+    "VP of Health IT"
+  ],
+  "Teacher": [
+    "Senior Teacher",
+    "Department Head",
+    "Assistant Principal",
+    "Principal"
+  ],
+  "Special Education Teacher": [
+    "Senior Special Education Teacher",
+    "Special Education Coordinator",
+    "Director of Special Education",
+    "School Counselor"
+  ],
+  "School Counselor": [
+    "Senior School Counselor",
+    "Counseling Coordinator",
+    "Director of Student Services",
+    "Assistant Principal"
+  ],
+  "Instructional Designer": [
+    "Senior Instructional Designer",
+    "Instructional Design Manager",
+    "Director of Learning",
+    "VP of Learning & Development"
+  ],
+  "Education Technology Specialist": [
+    "Senior Ed Tech Specialist",
+    "Ed Tech Manager",
+    "Director of Educational Technology",
+    "Chief Technology Officer"
+  ],
+  "Corporate Trainer": [
+    "Senior Corporate Trainer",
+    "Training Manager",
+    "Learning and Development Manager",
+    "Director of Training"
+  ],
+  "Learning and Development Manager": [
+    "Senior L&D Manager",
+    "Director of Learning",
+    "VP of Learning & Development",
+    "Chief Learning Officer"
+  ],
+  "Chef": [
+    "Executive Chef",
+    "Head Chef",
+    "Culinary Director",
+    "Restaurant Manager"
+  ],
+  "Restaurant Manager": [
+    "General Manager",
+    "District Manager",
+    "Director of Operations",
+    "VP of Operations"
+  ],
+  "Hotel Manager": [
+    "General Manager",
+    "Regional Manager",
+    "Director of Operations",
+    "VP of Hospitality"
+  ],
+  "Event Coordinator": [
+    "Event Manager",
+    "Senior Event Coordinator",
+    "Director of Events",
+    "VP of Events"
+  ],
+  "Event Manager": [
+    "Senior Event Manager",
+    "Director of Events",
+    "VP of Events",
+    "Chief Experience Officer"
+  ],
+  "Real Estate Agent": [
+    "Senior Real Estate Agent",
+    "Real Estate Broker",
+    "Team Leader",
+    "Branch Manager"
+  ],
+  "Real Estate Broker": [
+    "Managing Broker",
+    "Brokerage Owner",
+    "Director of Sales",
+    "VP of Real Estate"
+  ],
+  "Property Manager": [
+    "Senior Property Manager",
+    "Portfolio Manager",
+    "Director of Property Management",
+    "VP of Property Management"
+  ],
+  "Architect": [
+    "Senior Architect",
+    "Principal Architect",
+    "Design Director",
+    "Partner"
+  ],
+  "Senior Architect": [
+    "Principal Architect",
+    "Design Director",
+    "Partner",
+    "Chief Architect"
+  ],
+  "Interior Designer": [
+    "Senior Interior Designer",
+    "Design Manager",
+    "Design Director",
+    "Principal Designer"
+  ],
+  "Urban Planner": [
+    "Senior Urban Planner",
+    "Planning Manager",
+    "Director of Planning",
+    "Chief Planning Officer"
+  ],
+  "Landscape Architect": [
+    "Senior Landscape Architect",
+    "Principal Landscape Architect",
+    "Design Director",
+    "Partner"
+  ],
+  "Paralegal": [
+    "Senior Paralegal",
+    "Paralegal Manager",
+    "Legal Operations Manager",
+    "Contract Manager"
+  ],
+  "Legal Assistant": [
+    "Paralegal",
+    "Senior Legal Assistant",
+    "Legal Operations Coordinator",
+    "Office Manager"
+  ],
+  "Contract Manager": [
+    "Senior Contract Manager",
+    "Director of Contracts",
+    "VP of Legal Operations",
+    "General Counsel"
+  ],
+  "Journalist": [
+    "Senior Journalist",
+    "Editor",
+    "Bureau Chief",
+    "Managing Editor"
+  ],
+  "Editor": [
+    "Senior Editor",
+    "Managing Editor",
+    "Executive Editor",
+    "Editor-in-Chief"
+  ],
+  "Photographer": [
+    "Senior Photographer",
+    "Lead Photographer",
+    "Photo Editor",
+    "Creative Director"
+  ],
+  "Videographer": [
+    "Senior Videographer",
+    "Video Editor",
+    "Video Producer",
+    "Creative Director"
+  ],
+  "Podcast Producer": [
+    "Senior Podcast Producer",
+    "Audio Director",
+    "Content Director",
+    "VP of Content"
+  ],
+  "Social Media Analyst": [
+    "Social Media Manager",
+    "Social Media Strategist",
+    "Digital Marketing Manager",
+    "Marketing Manager"
+  ],
+  "Community Manager": [
+    "Senior Community Manager",
+    "Community Director",
+    "Social Media Manager",
+    "Director of Community"
+  ],
+  "Influencer Marketing Manager": [
+    "Senior Influencer Marketing Manager",
+    "Director of Influencer Marketing",
+    "VP of Marketing",
+    "Brand Director"
+  ],
+  "Growth Marketing Manager": [
+    "Senior Growth Marketing Manager",
+    "Director of Growth",
+    "VP of Growth",
+    "Chief Growth Officer"
+  ],
+  "Performance Marketing Manager": [
+    "Senior Performance Marketing Manager",
+    "Director of Performance Marketing",
+    "VP of Marketing",
+    "Chief Marketing Officer"
+  ],
+  "Affiliate Marketing Manager": [
+    "Senior Affiliate Marketing Manager",
+    "Director of Partnerships",
+    "VP of Partnerships",
+    "Director of Marketing"
+  ],
+  "E-commerce Manager": [
+    "Senior E-commerce Manager",
+    "Director of E-commerce",
+    "VP of E-commerce",
+    "Chief Digital Officer"
+  ],
+  "Conversion Rate Optimizer": [
+    "Senior CRO Specialist",
+    "Growth Marketing Manager",
+    "Director of Optimization",
+    "VP of Growth"
+  ],
+  "Marketing Automation Specialist": [
+    "Marketing Automation Manager",
+    "Marketing Operations Manager",
+    "Director of Marketing Operations",
+    "VP of Marketing"
+  ],
+  "Venture Capital Analyst": [
+    "Senior VC Analyst",
+    "Associate",
+    "Principal",
+    "Partner"
+  ],
+  "Private Equity Analyst": [
+    "Senior PE Analyst",
+    "Associate",
+    "Vice President",
+    "Partner"
+  ],
+  "Credit Analyst": [
+    "Senior Credit Analyst",
+    "Credit Manager",
+    "Director of Credit",
+    "VP of Credit"
+  ],
+  "Treasury Analyst": [
+    "Senior Treasury Analyst",
+    "Treasury Manager",
+    "Director of Treasury",
+    "Treasurer"
+  ],
+  "Tax Analyst": [
+    "Senior Tax Analyst",
+    "Tax Manager",
+    "Director of Tax",
+    "VP of Tax"
+  ],
+  "Actuary": [
+    "Senior Actuary",
+    "Principal Actuary",
+    "Chief Actuary",
+    "VP of Actuarial"
+  ],
+  "Insurance Underwriter": [
+    "Senior Underwriter",
+    "Chief Underwriter",
+    "Underwriting Manager",
+    "Director of Underwriting"
+  ],
+  "Claims Adjuster": [
+    "Senior Claims Adjuster",
+    "Claims Manager",
+    "Director of Claims",
+    "VP of Claims"
+  ],
+  "Economist": [
+    "Senior Economist",
+    "Lead Economist",
+    "Chief Economist",
+    "Director of Economics"
+  ],
+  "Statistician": [
+    "Senior Statistician",
+    "Lead Statistician",
+    "Principal Statistician",
+    "Director of Analytics"
+  ],
+  "Quantitative Analyst": [
+    "Senior Quantitative Analyst",
+    "Quantitative Researcher",
+    "Portfolio Manager",
+    "Director of Quantitative Research"
+  ],
+  "Strategy Consultant": [
+    "Senior Strategy Consultant",
+    "Principal Consultant",
+    "Partner",
+    "Managing Director"
+  ],
+  "Management Consultant": [
+    "Senior Management Consultant",
+    "Principal Consultant",
+    "Partner",
+    "Managing Director"
+  ],
+  "IT Consultant": [
+    "Senior IT Consultant",
+    "Principal Consultant",
+    "Solutions Architect",
+    "Partner"
+  ],
+  "Cybersecurity Consultant": [
+    "Senior Cybersecurity Consultant",
+    "Principal Security Consultant",
+    "Security Architect",
+    "Partner"
+  ],
+  "Blockchain Architect": [
+    "Principal Blockchain Architect",
+    "Director of Blockchain",
+    "VP of Blockchain",
+    "CTO"
+  ],
+  "AI Product Manager": [
+    "Senior AI Product Manager",
+    "Director of AI Products",
+    "VP of AI",
+    "Chief AI Officer"
+  ],
+  "Revenue Operations Manager": [
+    "Senior Revenue Operations Manager",
+    "Director of Revenue Operations",
+    "VP of Revenue Operations",
+    "Chief Revenue Officer"
+  ]
 }
