@@ -28,8 +28,6 @@ Based on this input, the application provides personalized job recommendations, 
 
 ## 🖼️ Gallery
 
-*(**Note:** You'll need to upload your screenshots to the repository, perhaps in an `assets` folder, and then update these paths.)*
-
 | Select Skills | Select Interests | Select Experience |
 | :---: | :---: | :---: |
 | <img src="./assets/skills.jpg" alt="Skills Page" width="300"> | <img src="./assets/interests.png" alt="Interests Page" width="300"> | <img src="./assets/experience.png" alt="Experience Page" width="300"> |
