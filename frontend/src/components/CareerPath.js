@@ -38,12 +38,16 @@ function CareerPath({ job, careerPath, onClose }) {
                     <div className="position-card future">
                       <p className="position-number">{index + 1}</p>
                       <p className="position-title">{step.title}</p>
-                      {step.salary_range && (
+                      
+                      {/* --- THIS IS THE FIX --- */}
+                      {/* Use the pre-formatted salary string from the backend */}
+                      {step.salary_range_formatted && (
                         <p className="position-salary">
-                           ${step.salary_range[0].toLocaleString()} - 
-                          ${step.salary_range[1].toLocaleString()}
+                          {step.salary_range_formatted}
                         </p>
                       )}
+                      {/* --- END OF FIX --- */}
+
                       {step.required_skills && (
                         <div className="position-skills">
                           <p>Additional Skills Needed:</p>
