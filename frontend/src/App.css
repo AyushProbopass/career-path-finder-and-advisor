@@ -17,7 +17,7 @@
 .interest-selector {
   background: var(--bg);
   border-radius: 14px;
-  padding: clamp(1rem, 2vw, 2rem); /* responsive padding */
+  padding: clamp(1rem, 2vw, 2rem);
   margin: 1rem auto;
   box-shadow: 0 10px 30px rgba(0,0,0,0.08);
 }
@@ -61,7 +61,6 @@
   font-weight: 600;
 }
 
-/* CHECKED STATE (JS fallback allowed) */
 .interest-checkbox.checked,
 .interest-checkbox:has(input:checked) {
   border-color: var(--primary);
@@ -69,25 +68,59 @@
   transform: translateY(-2px);
 }
 
-/* BUTTON GROUP */
+/* BUTTON GROUP — FIXED */
 .button-group {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   gap: 1rem;
   margin-top: 1.5rem;
 }
 
-.back-btn {
-  padding: 0.7rem 1.6rem;
-  background: var(--muted);
+.back-btn,
+.next-btn {
+  flex: 1;
+  padding: 0.9rem 1rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
   border: none;
-  border-radius: 8px;
-  font-weight: 700;
   cursor: pointer;
 }
 
+/* BACK BUTTON */
+.back-btn {
+  background: #e2e8f0;
+  color: #2d3748;
+}
+
 .back-btn:hover {
-  background: var(--muted-2);
+  background: #cbd5e0;
+}
+
+/* NEXT BUTTON */
+.next-btn {
+  background: #262626;
+  color: white;
+  border: 2px solid #262626;
+}
+
+.next-btn:hover {
+  background: #000;
+}
+
+/* MOBILE FIX */
+@media (max-width: 600px) {
+  .button-group {
+    flex-direction: column;
+  }
+
+  .back-btn,
+  .next-btn {
+    width: 100%;
+    padding: 1rem;
+  }
 }
 
 /* MODAL BACKDROP */
@@ -222,10 +255,6 @@
 @media (max-width: 768px) {
   .interests-grid {
     grid-template-columns: 1fr;
-  }
-
-  .button-group {
-    flex-direction: column;
   }
 
   .modal-content {
