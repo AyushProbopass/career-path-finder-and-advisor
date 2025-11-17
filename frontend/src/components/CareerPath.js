@@ -2,7 +2,7 @@ import React from 'react';
 
 function CareerPath({ job, careerPath, onClose }) {
   return (
-    <div className="career-path-modal">
+    <div className="career-path-modal open">
       <div className="modal-overlay" onClick={onClose}></div>
       <div className="modal-content">
         <button className="close-btn" onClick={onClose}>×</button>
@@ -42,9 +42,9 @@ function CareerPath({ job, careerPath, onClose }) {
                       {/* --- THIS IS THE FIX --- */}
                       {/* Use the pre-formatted salary string from the backend */}
                       {step.salary_range_formatted && (
-                        <p className="position-salary">
-                          {step.salary_range_formatted}
-                        </p>
+                      <p className="position-salary">
+                      {step.salary_range_formatted}
+                       </p>
                       )}
                       {/* --- END OF FIX --- */}
 
